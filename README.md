@@ -1,4 +1,4 @@
-# Hi, I'm Moa 👋
+# Hi, I'm Moa!
 
 🌿 Web development student at Malmö University  
 💻 Working with both frontend & backend  
@@ -13,11 +13,14 @@ Lately, I've been exploring backend development and security concepts such as au
 ---
 
 ## 🛠️ Tech Stack
-JavaScript
-HTML
-CSS
-Node.js
-Express
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?logo=javascript&logoColor=f7df1e)
+![HTML](https://img.shields.io/badge/HTML-1a1a1a?logo=html5&logoColor=e34f26)
+![CSS](https://img.shields.io/badge/CSS-1a1a1a?logo=css3&logoColor=1572b6)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1a1a1a?logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-1a1a1a?logo=jsonwebtokens&logoColor=white)
+![AES](https://img.shields.io/badge/AES-1a1a1a?logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?logo=mysql&logoColor=4479A1)
 
 ---
 
