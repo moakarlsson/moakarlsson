@@ -1,18 +1,18 @@
 # Hi, I'm Moa!
 
-🌿 Web development student at Malmö University  
-💻 Working with both frontend & backend  
-🔐 Interested in cybersecurity & secure systems  
+- Web development student at Malmö University  
+- Working with both frontend & backend  
+- Interested in cybersecurity & secure systems  
 
 ---
 
-## 💡 About me
+##  About me:
 I enjoy building web applications that combine good user experience with solid technical solutions.  
 Lately, I've been exploring backend development and security concepts such as authentication, encryption and secure data handling.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?logo=javascript&logoColor=f7df1e)
 ![HTML](https://img.shields.io/badge/HTML-1a1a1a?logo=html5&logoColor=e34f26)
 ![CSS](https://img.shields.io/badge/CSS-1a1a1a?logo=css3&logoColor=1572b6)
@@ -24,7 +24,7 @@ Lately, I've been exploring backend development and security concepts such as au
 
 ---
 
-## 🔐 Security & Backend
+##  Security & Backend:
 - Authentication (sessions, JWT)  
 - Encryption basics (AES)  
 - REST APIs with Node.js & Express  
@@ -33,21 +33,20 @@ Lately, I've been exploring backend development and security concepts such as au
 ---
 
 
-## 🌱 Currently learning
+##  Currently learning;
 - Data visualization in JavaScript  
 - Secure system design  
 - Interactive web applications  
 
 ---
 
-## ✨ Goals
+##  Goals:
 - Build a creative and technical portfolio  
 - Combine design + development + security  
 - Work with something meaningful and inspiring  
 
 ---
 
-## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=moakarlsson)
+## Let's connect! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moa-karlsson-234446287)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moakarlsson)
